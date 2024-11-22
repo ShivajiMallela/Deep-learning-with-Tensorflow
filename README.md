@@ -14,7 +14,7 @@ In this repository, you'll find various code files and Jupyter Notebooks that re
 
 - [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python): A highly recommended book for practical examples and in-depth knowledge of deep learning with Keras and TensorFlow.
   
-- [TensorFlow for Deep Learning Bootcamp](https://www.udemy.com/share/104ssS3@BstewfZqCebSPbwtuvV1DbzBD1yexPkyVoEK_MS5kode1yWR_q9uDfUak02KwE8kzQ==/): Great Tutorial with a detailed explanation by @mrdbourke.
+- [TensorFlow for Deep Learning Bootcamp](https://www.udemy.com/share/104ssS3@BstewfZqCebSPbwtuvV1DbzBD1yexPkyVoEK_MS5kode1yWR_q9uDfUak02KwE8kzQ==/): Great Tutorial with a detailed explanation by [@mrdbourke](https://github.com/mrdbourke).
 
 ## Conclusion
 
