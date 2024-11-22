@@ -6,10 +6,6 @@ Welcome to my deep learning journey repository! Here, I document my progress and
 
 In this repository, you'll find various code files and Jupyter Notebooks that reflect my learning process. Each file corresponds to a different aspect of deep learning, covering topics such as tensor operations, model building, optimization, and GPU usage.
 
-## Repository Structure
-
-- **Notebooks**: This directory contains Jupyter Notebooks where I explore different deep learning concepts and algorithms using TensorFlow.
-
 ## Resources
 
 - [TensorFlow Official Website](https://www.tensorflow.org/): Official website for TensorFlow, including documentation, tutorials, and guides.
@@ -17,6 +13,8 @@ In this repository, you'll find various code files and Jupyter Notebooks that re
 - [TensorFlow Python API Docs](https://www.tensorflow.org/api_docs/python/): Detailed API documentation for TensorFlow functions and modules.
 
 - [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python): A highly recommended book for practical examples and in-depth knowledge of deep learning with Keras and TensorFlow.
+  
+- [TensorFlow for Deep Learning Bootcamp](https://www.udemy.com/share/104ssS3@BstewfZqCebSPbwtuvV1DbzBD1yexPkyVoEK_MS5kode1yWR_q9uDfUak02KwE8kzQ==/): Great Tutorial with a detailed explanation by @mrdbourke.
 
 ## Conclusion
 
